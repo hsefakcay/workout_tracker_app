@@ -1,6 +1,7 @@
 # workout_tracker_app
 
 A new Flutter project.
+![Screenshot_1711155430](https://github.com/hsefakcay/workout_tracker_app/assets/121294367/fa73585b-e04d-4088-ad00-c4bcdb513c4b)
 
 ## Getting Started
 
