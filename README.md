@@ -1,6 +1,10 @@
-# workout_tracker_app
 
-A new Flutter project.
+
+Workout Tracker App
+
+Workout Tracker App, spor yaparken ilerlemenizi takip etmenize yardımcı olan kullanıcı dostu bir uygulamadır. Hem yeni başlayanlar hem de deneyimli sporcular için ideal olan bu uygulama, kullanıcıların antrenmanlarını düzenlemesine, takvimlerini oluşturmasına ve ilerlemelerini kaydetmesine olanak tanır.
+
+Workout Tracker App, Flutter kullanılarak geliştirilmiştir ve Hive veritabanını kullanarak kullanıcı verilerini yerel olarak saklar. Bu, kullanıcıların internet bağlantısı olmadan da uygulamayı kullanabilecekleri anlamına gelir.
 ![Screenshot_1711155430](https://github.com/hsefakcay/workout_tracker_app/assets/121294367/fa73585b-e04d-4088-ad00-c4bcdb513c4b)
 
 ## Getting Started
